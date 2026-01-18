@@ -1,0 +1,5 @@
+body { font-family: system-ui, Arial; margin: 20px; }
+.container { max-width: 900px; margin: 0 auto; }
+.card { border: 1px solid #ddd; padding: 12px; margin: 8px 0; border-radius: 6px; }
+button { margin-right: 8px; }
+.list { max-height: 160px; overflow: auto; background: #fff; border: 1px solid #eee; padding: 6px }
